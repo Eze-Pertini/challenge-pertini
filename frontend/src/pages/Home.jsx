@@ -1,7 +1,10 @@
+import TaskList from "../components/TaskList";
+
 function Home() {
   return (
     <div>
-      <h1>Lista de Tareas</h1>
+      <h1>Inicio</h1>
+      <TaskList />
     </div>
   );
 }

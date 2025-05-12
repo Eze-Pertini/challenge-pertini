@@ -1,7 +1,9 @@
+import TaskForm from "../components/TaskForm";
+
 function NewTask() {
   return (
     <div>
-      <h1>Crear nueva tarea</h1>
+      <TaskForm />
     </div>
   );
 }
