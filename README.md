@@ -53,3 +53,8 @@ El frontend estará disponible en: http://localhost:5173
 - Control de estado con useState y useEffect  
 - Redirección automática luego de crear o editar tareas  
 - Persistencia temporal en memoria (sin base de datos)  
+
+![INICIO](/screenshots/screenshot1.png)
+![CREA TAREA](/screenshots/screenshot2.png)
+![TAREA CREADA](/screenshots/screenshot3.png)
+![TAREA ELIMINADA](/screenshots/screenshot4.png)
